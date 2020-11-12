@@ -1,3 +1,6 @@
+1.      Create a single list with methods to add and delete elements from head and tail positions. Provide method to check whether an element is present in the list. Count number of elements in the list.
+2.      Add methods to Q1 to find maximum and minimum elements in the list.
+
 #include <stdio.h>
 
 #include <stdlib.h>
